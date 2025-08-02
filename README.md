@@ -1,0 +1,2 @@
+# Namz-Store
+web
